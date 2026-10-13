@@ -1,0 +1,42 @@
+{
+  "source_archive": "FILE X BADMAN.zip",
+  "inventory_only": true,
+  "QX_script_or_module_assets_found": 94,
+  "RT_script_or_module_assets_found": 18,
+  "other_driver_script_or_module_assets_found": 104,
+  "note": "Original QX/RT and other driver scripts/binaries are not bundled or auto-executed in this build package. Source archive contains process-hiding-related driver labels and unverified privileged loaders. Review and authorize any legitimate driver separately before use.",
+  "sample_QX_paths": [
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/4.14.117.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/4.14.180.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/4.14.186.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/4.14.186b.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/4.14.186c.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/4.19.113.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/4.19.113c.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/4.19.157.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/4.19.157b.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/4.19.191-note12pro-A13.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/4.19.81.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/4.9.186.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/5.10/5.10-Pixel.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/5.10/5.10.ko.sh",
+    "assets/Drivers/QX/OX Perfect Driver V14.3+/14.3+ (enable auxiliary first and then flash the driver)/5.10/5.10b.ko.sh"
+  ],
+  "sample_RT_paths": [
+    "assets/Drivers/RT/4.14.117.sh",
+    "assets/Drivers/RT/4.14.180.sh",
+    "assets/Drivers/RT/4.14.186.sh",
+    "assets/Drivers/RT/4.19.113.sh",
+    "assets/Drivers/RT/4.19.157.sh",
+    "assets/Drivers/RT/4.19.157OnePlus 8t.sh",
+    "assets/Drivers/RT/4.19.191-ColorOS.ko.sh",
+    "assets/Drivers/RT/4.19.81.sh",
+    "assets/Drivers/RT/4.9.186.sh",
+    "assets/Drivers/RT/5.10.sh",
+    "assets/Drivers/RT/5.15.sh",
+    "assets/Drivers/RT/5.4c.sh",
+    "assets/Drivers/RT/5.4oppo.sh",
+    "assets/Drivers/RT/6.1.sh",
+    "assets/Drivers/RT/6.1BY_SANDIP.sh"
+  ]
+}
