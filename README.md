@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BADMAN DRIVER'S — Android diagnostic project
 
 An Android Studio / Gradle Kotlin + Jetpack Compose project for Android 15 (compile/target SDK 35). Includes the neon logo, centered animated splash screen, unlock reveal, button tones, device/kernel information, root-state display, and truthful diagnostic logs.
@@ -14,3 +15,7 @@ This initial project does not execute bundled QX/RT binaries, load kernel module
 
 ## Build environment note
 This source archive is not a compiled APK. A complete APK build requires Android SDK Platform 35, JDK 17, Gradle dependency access, and signing tools.
+=======
+# badman-drivers
+BADMAN DRIVERS Android project
+>>>>>>> 0ea086736f1016ef80f5855c602112f380deff18
